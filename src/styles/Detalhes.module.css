@@ -1,0 +1,18 @@
+/* Animaisdesc.module.css */
+.bodyp{
+  background-color: #9860e2;
+}
+.body {
+  margin: 20px;
+  min-height: 75vh;
+  background-color: #9860e2;
+  display: flex;
+  align-items: center;
+}
+
+.profile {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 20px 0;
+}
+

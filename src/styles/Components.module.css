@@ -1,0 +1,29 @@
+.footer {
+    background-color: #3a0a61;
+    color: #a383fc;
+    height: 8vh;
+}
+.footer p{
+    text-align: center;
+}
+.navbar {
+    background-color: #3a0a61;
+    min-height: 70px;
+    display: flex;
+    align-items: center
+}
+
+.a1{
+    color: #a383fc;
+    margin-left: 2vw;
+    text-decoration: none;
+}
+.a2{
+    color: #a383fc;
+    margin-left: 28vw;
+    text-decoration: none;
+}
+.navbar h2{
+    color: #a383fc;
+    margin-left: 2vw;
+}

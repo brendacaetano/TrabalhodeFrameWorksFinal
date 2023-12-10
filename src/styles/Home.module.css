@@ -1,0 +1,22 @@
+.corpo {
+    display: flex;
+    flex-direction: column;
+    background-color: #9860e2;
+    height: 100vh;
+}
+
+.home {
+    margin-top: 18vh;
+    width: 800px;
+    height: 75vh;
+    padding: 20px;
+}
+.home p{
+    margin-top: 5vh;
+    text-decoration: none;
+}
+
+.home a{
+    color: black;
+    text-decoration: none;
+}
